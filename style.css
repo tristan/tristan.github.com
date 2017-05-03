@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+    background-color: black;
+}
+.main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18pt;
+    color: #05f900;
+}
