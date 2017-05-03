@@ -14,3 +14,6 @@ html, body {
     font-size: 18pt;
     color: #05f900;
 }
+.block.hidden {
+    visibility: hidden;
+}
