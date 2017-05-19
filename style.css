@@ -1,19 +1,40 @@
 html, body {
     height: 100%;
-    border: 0;
+    /*border: 0;
     padding: 0;
-    margin: 0;
+    margin: 0;*/
     background-color: black;
 }
 .main {
     height: 100%;
-    display: flex;
+/*    display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     font-family: 'Roboto Mono', monospace;
     font-size: 18pt;
     color: #05f900;
 }
-.block.hidden {
+.hidden {
     visibility: hidden;
+}
+a {
+    color: #05f900;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+svg {
+  width: 28px;
+  height: 28px;
+  position: relative;
+  top: 7px;
+  right: -5px;
+  fill: #05f900;
 }
