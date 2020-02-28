@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/tris
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tristan.sh
+  * I am tris (https://keybase.io/tris) on keybase.
+  * I have a public key with fingerprint F326 68C0 18DB 5498 CF7C  A6C8 7FCA 768E 493F 4F32
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011118ebaf2c08adb05619c8b08bc9592f597af5eec033a1d464042958b4a9431d0a",
+      "fingerprint": "f32668c018db5498cf7ca6c87fca768e493f4f32",
+      "host": "keybase.io",
+      "key_id": "7fca768e493f4f32",
+      "kid": "01011118ebaf2c08adb05619c8b08bc9592f597af5eec033a1d464042958b4a9431d0a",
+      "uid": "25b93b7b3bb6c1ed8dda9b3f3d6fba19",
+      "username": "tris"
+    },
+    "service": {
+      "hostname": "tristan.sh",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1582892697,
+  "expire_in": 157680000,
+  "prev": "ce1045999e7aa5423f570cc5a92c5cba57cc968bdf0b89c9e9a03b12043325a5",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJbSBVBGD5qWSl21UCk20aBIDl7md2ZU1H0UtGF6qHoQqeZ2dnjZu0e
+d1ezi3aPIrMoiyxKim6QUD10oYjUbmhUIBFhpUIoSBcqoofsVLNS0EOP/S/DfPN9
+33z/z38vKy2SkZKc0rzYGZ6qpTxqPFgaWbk0vXajRF1zvRTdKBXzvoOvMbkfxIpt
+U4pKQAayKMQpsRQGEDEpgLqMGaIAUYYhViyIDWJBzhlQVSKbmq4BTcEQUY1gTZVN
+QKQCybKdOPcSnu0EwtZSFV1HDMjIpFDDiFkGIzpDhsWIoSOuYdXSBEkIi1w/VIhw
+lPh8ku0KTFxiffH+wf/PuUv77BRIsUoNqlKqM5mbyDQJpqqlmrpFiYxDos89h6zl
+gh14ti9VFEgCKbMZD4cadvHXa0CcSX6RUCU8N3CZu0bgRUGQ8KOhLlifCInrOI39
+tohR2zHFBIWijHu+7TpSVBZMFtihpwyRgrCiY6NA4uUJ2+MxO2RAMRsgKvyHlwlL
+xmWgQYwxNwiBmqJa0ACMQYIVBhkl0GAM64iaFqAIM8wxASqVFaCpqgIJlMKmShxX
+iiqqyEniwtO34w4JSj0uVTQ1rOgXScmIpPdPDVcrkjFo6J+F25E/MLJ1dvfy9NqK
+8sZr83qPn5/R2xkfOaZ6w8PO4Z+yUd3XudtuNFQmf6ZNvN5zftfQloXD5OT3S60X
+Cw6AkXx3RmF0NFtWWK/nbjmz79LJErWqpO5J174PyZ7M+mlzcg9VZmXWdFeXpU3b
+mVNVc+b9BK9hQd0cJ/VaS/23B48jrysnPxtgbu+9t/rcffv+q8Ufq1pOPz/6rj9v
+vcnezhvbdLniiFR44ERzW0fy27u9aNThsR3x41+yx63aNLj39oU8cEwFWS9zFt1d
+0q0Pu3pnelr+/PpZ1Qs+t2+eeSz/6f4u84iRd6jNvTU3Z/yP2po3UzvBi0Gfy5On
+ra1D9rQvOzviyozc7DG5p/gv138+PQ==
+=CCQL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tris
+
+==================================================================
