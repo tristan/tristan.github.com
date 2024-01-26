@@ -11,23 +11,15 @@ setInterval(function() {
   }
 }, 750);
 
-var files = {
-  'tristan.sh': [
-    '#!/bin/bash',
-    'cat <<EOF >> /dev/stdout',
-    '',
-    'LINKS',
-    '',
-    'github: https://github.com/tristan',
-    'twitter: https://twitter.com/tristanking',
-    'linkedin: https://au.linkedin.com/pub/tristan-king/2/1b0/bb6',
-    'last.fm: https://www.last.fm/user/lessthantristan',
-  ]
-};
+var mail = document.getElementById("mail");
 
-document.getElementsByTagName("body")[0].addEventListener('keypress', function(e) {
-  if (e.charCode === 13) {
-  }
-});
+var email = "ws";
+const characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+for (let i = 0; i < 5; i++) {
+  email += characters.charAt(Math.floor(Math.random() * characters.length));
+}
+email += "@tristan.sh";
 
+mail.innerText = email;
+mail.setAttribute("href", "mailto:" + email);
 // bakkenbaeck.com/team
